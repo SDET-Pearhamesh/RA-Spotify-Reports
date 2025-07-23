@@ -1,9 +1,15 @@
-# 🎵 Spotify REST API Test Reports
-
 <div align="center">
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+# 🎵 Spotify Playlist API Test Reports
+
+<div align="center">
 
 [![Latest Build](https://img.shields.io/badge/🏗️%20Latest%20Build-View%20Report-007CBA?style=for-the-badge)](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/latest/)
 
