@@ -1,12 +1,14 @@
 <div align="left">
 
-[![Latest Build](https://img.shields.io/badge/🏗️%20Latest%20Build-View%20Report-007CBA?style=for-the-badge)](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/latest/)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+[![Latest Build](https://img.shields.io/badge/🏗️%20Latest%20Build-View%20Report-007CBA?style=for-the-badge)](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/latest/)
 
 </div>
 
 # 🎵 Spotify Playlist API Test Reports
+
+<div align="center">
 
 ---
 
@@ -36,17 +38,19 @@ This repository hosts **automated test reports** for the Spotify REST API testin
 
 ## 📁 **Repository Structure**
 
+```
 RA-Spotify-Reports/
-├── 📊 latest/                    # Latest test report
-│   ├── index.html               # Main report dashboard
-│   ├── data/                    # Test execution data
-│   └── export/                  # Exportable formats
-├── 📁 archive/                   # Historical reports
-│   ├── build-1/                 # Build #1 report
-│   ├── build-2/                 # Build #2 report
-│   └── ...                      # More builds
-├── 🏠 index.html                # Landing page
-└── 📖 README.md                 # This file
+├── 📊 latest/                    # Latest test report
+│   ├── index.html               # Main report dashboard
+│   ├── data/                    # Test execution data
+│   └── export/                  # Exportable formats
+├── 📁 archive/                   # Historical reports
+│   ├── build-1/                 # Build #1 report
+│   ├── build-2/                 # Build #2 report
+│   └── ...                      # More builds
+├── 🏠 index.html                # Landing page
+└── 📖 README.md                 # This file
+```
 
 ## 🔗 **URL Patterns**
 
@@ -54,28 +58,31 @@ Access any specific build report using these patterns:
 
 ```bash
 # Latest report (always updated)
-[https://sdet-pearhamesh.github.io/RA-Spotify-Reports/latest/](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/latest/)
+https://sdet-pearhamesh.github.io/RA-Spotify-Reports/latest/
 
 # Specific build report
-[https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-){BUILD_NUMBER}/
+https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-{BUILD_NUMBER}/
 
 # Examples:
-[https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-25/](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-25/)
-[https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-50/](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-50/)
-[https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-100/](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-100/)
+https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-25/
+https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-50/
+https://sdet-pearhamesh.github.io/RA-Spotify-Reports/archive/build-100/
+```
 
-📧 Email Notifications
+## 📧 **Email Notifications**
+
 Stakeholders receive automated email reports containing:
+- ✅ Build status and summary
+- 🔗 Direct links to reports
+- 📈 Test execution metrics
+- 📎 Jenkins build logs (attached)
+- 🕐 Execution timestamp
 
-✅ Build status and summary
+## 📞 **Support & Contact**
 
-🔗 Direct links to reports
+<div align="left">
 
-📈 Test execution metrics
+[![Email](https://img.shields.io/badge/Email-prathamesh.d.ingale@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prathamesh.d.ingale@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prathamesh-ingale-024ab9241/)
 
-📎 Jenkins build logs (attached)
-
-🕐 Execution timestamp
-
-📞 Support & Contact
-📊 Automated Daily | 🎵 Spotify API Testing | 🚀 Powered by Jenkins & GitHub Pages
+</div>
