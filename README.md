@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🚀 **What is this?**
 
 This repository hosts **automated test reports** for the Spotify REST API testing suite. Every day at 10 AM, our Jenkins CI/CD pipeline runs comprehensive REST API tests and publishes beautiful, interactive **Allure reports** right here on GitHub Pages.
