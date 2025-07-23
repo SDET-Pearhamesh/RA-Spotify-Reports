@@ -4,8 +4,6 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 [![Latest Build](https://img.shields.io/badge/🏗️%20Latest%20Build-View%20Report-007CBA?style=for-the-badge)](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/latest/)
 
-</div>
-
 # 🎵 Spotify Playlist API Test Reports
 
 </div>
