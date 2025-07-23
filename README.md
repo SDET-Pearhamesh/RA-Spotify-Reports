@@ -8,7 +8,7 @@
 
 # 🎵 Spotify Playlist API Test Reports
 
-<div align="center">
+</div>
 
 ---
 
