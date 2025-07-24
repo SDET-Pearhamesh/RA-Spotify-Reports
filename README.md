@@ -15,7 +15,7 @@ This repository hosts **automated test reports** for the Spotify REST API testin
 | 🎯 **Report Type** | 🔗 **Direct Link** | 📝 **Description** |
 |-------------------|-------------------|-------------------|
 | **📊 Latest Report** | [📊 View Latest](https://sdet-pearhamesh.github.io/RA-Spotify-Reports/latest/) | Most recent test execution results |
-| **💻 Source Code** | [💻 Test Suite](https://github.com/SDET-Pearhamesh/RestAssured_Practise) | REST Assured automation framework |
+| **💻 Source Code** | [💻 Test Suite](https://github.com/SDET-Pearhamesh/RA-Spotify) | REST Assured automation framework |
 
 ## 🎨 **Features**
 
