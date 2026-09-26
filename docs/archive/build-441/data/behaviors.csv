@@ -1,0 +1,4 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"1","Spotify Oauth 2.0","0","Playlist API - To create, get, update playlists","0","0","Get a playlist","0"
+"2","Spotify Oauth 2.0","1","Playlist API - To create, get, update playlists","0","0","Create a playlist","0"
+"1","Spotify Oauth 2.0","0","Playlist API - To create, get, update playlists","0","0","Update a playlist","0"
